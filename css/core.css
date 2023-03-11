@@ -170,6 +170,7 @@ body {
   margin: 0.5rem;
   padding: 0;
   border-radius: 6px;
+  cursor: pointer;
 }
 
 .thumb:hover {
