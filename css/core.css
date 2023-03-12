@@ -336,7 +336,7 @@ h4 {
 
 .close:hover,
 .close:focus {
-  color: #bbb;
+  color: #fff;
   text-decoration: none;
   cursor: pointer;
 }
